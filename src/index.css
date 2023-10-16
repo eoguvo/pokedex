@@ -10,3 +10,7 @@ body {
   -moz-osx-font-smoothing: grayscale;
   background: #282c34;
 }
+
+input {
+  all: unset;
+}
